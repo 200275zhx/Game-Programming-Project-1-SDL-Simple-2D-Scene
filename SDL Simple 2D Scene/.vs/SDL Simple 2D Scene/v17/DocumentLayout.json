@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20027\\OneDrive\\Desktop\\Intro to Game Programming\\Assignments\\SDL Simple 2D Scene\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4960B0EC-8B22-45A4-A1AD-7F23F4613ACC}|SDL Simple 2D Scene\\SDL Simple 2D Scene.vcxproj|C:\\Users\\20027\\OneDrive\\Desktop\\Intro to Game Programming\\Assignments\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4960B0EC-8B22-45A4-A1AD-7F23F4613ACC}|SDL Simple 2D Scene\\SDL Simple 2D Scene.vcxproj|solutionrelative:SDL Simple 2D Scene\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4960B0EC-8B22-45A4-A1AD-7F23F4613ACC}|SDL Simple 2D Scene\\SDL Simple 2D Scene.vcxproj|C:\\Users\\20027\\OneDrive\\Desktop\\Intro to Game Programming\\Assignments\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\ShaderProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4960B0EC-8B22-45A4-A1AD-7F23F4613ACC}|SDL Simple 2D Scene\\SDL Simple 2D Scene.vcxproj|solutionrelative:SDL Simple 2D Scene\\ShaderProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20027\\OneDrive\\Desktop\\Intro to Game Programming\\Practice\\Ray Marching Sphere\\Ray Marching Sphere\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20027\\OneDrive\\Desktop\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4960B0EC-8B22-45A4-A1AD-7F23F4613ACC}|SDL Simple 2D Scene\\SDL Simple 2D Scene.vcxproj|C:\\Users\\20027\\OneDrive\\Desktop\\Intro to Game Programming\\Assignments\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\ShaderProgram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4960B0EC-8B22-45A4-A1AD-7F23F4613ACC}|SDL Simple 2D Scene\\SDL Simple 2D Scene.vcxproj|solutionrelative:SDL Simple 2D Scene\\ShaderProgram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SDL2\\glew\\include\\GL\\glew.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sprite.cpp",
+              "DocumentMoniker": "C:\\Users\\20027\\OneDrive\\Desktop\\Intro to Game Programming\\Practice\\Ray Marching Sphere\\Ray Marching Sphere\\Sprite.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Practice\\Ray Marching Sphere\\Ray Marching Sphere\\Sprite.cpp",
+              "ToolTip": "C:\\Users\\20027\\OneDrive\\Desktop\\Intro to Game Programming\\Practice\\Ray Marching Sphere\\Ray Marching Sphere\\Sprite.cpp",
+              "RelativeToolTip": "..\\..\\Practice\\Ray Marching Sphere\\Ray Marching Sphere\\Sprite.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T00:48:24.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\20027\\OneDrive\\Desktop\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\main.cpp",
+              "ToolTip": "C:\\Users\\20027\\OneDrive\\Desktop\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\main.cpp",
+              "RelativeToolTip": "..\\..\\..\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\main.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T23:30:36.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShaderProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\20027\\OneDrive\\Desktop\\Intro to Game Programming\\Assignments\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\ShaderProgram.cpp",
+              "RelativeDocumentMoniker": "SDL Simple 2D Scene\\ShaderProgram.cpp",
+              "ToolTip": "C:\\Users\\20027\\OneDrive\\Desktop\\Intro to Game Programming\\Assignments\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\ShaderProgram.cpp",
+              "RelativeToolTip": "SDL Simple 2D Scene\\ShaderProgram.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T23:29:25.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShaderProgram.h",
+              "DocumentMoniker": "C:\\Users\\20027\\OneDrive\\Desktop\\Intro to Game Programming\\Assignments\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\ShaderProgram.h",
+              "RelativeDocumentMoniker": "SDL Simple 2D Scene\\ShaderProgram.h",
+              "ToolTip": "C:\\Users\\20027\\OneDrive\\Desktop\\Intro to Game Programming\\Assignments\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\ShaderProgram.h",
+              "RelativeToolTip": "SDL Simple 2D Scene\\ShaderProgram.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-14T23:29:14.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "glew.h",
+              "DocumentMoniker": "C:\\SDL2\\glew\\include\\GL\\glew.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\SDL2\\glew\\include\\GL\\glew.h",
+              "ToolTip": "C:\\SDL2\\glew\\include\\GL\\glew.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\SDL2\\glew\\include\\GL\\glew.h",
+              "ViewState": "AQIAAEgAAAAAAAAAAAApwFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T21:46:41.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\20027\\OneDrive\\Desktop\\Intro to Game Programming\\Assignments\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\main.cpp",
+              "RelativeDocumentMoniker": "SDL Simple 2D Scene\\main.cpp",
+              "ToolTip": "C:\\Users\\20027\\OneDrive\\Desktop\\Intro to Game Programming\\Assignments\\SDL Simple 2D Scene\\SDL Simple 2D Scene\\main.cpp",
+              "RelativeToolTip": "SDL Simple 2D Scene\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T20:47:27.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
